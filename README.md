@@ -1,27 +1,34 @@
 # LearningHub
+LearningHub is an interactive NoTimeMastery web application designed to provide users with a comprehensive learning experience. Built using Angular and Angular Universal, this platform focuses on delivering educational content in a user-friendly manner, incorporating features that enhance accessibility and engagement.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+## Table of Contents
 
-## Development server
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+- **Dynamic Learning Modules**: Explore various topics with structured modules that include tutorials, videos, and quizzes.
+- **Server-Side Rendering (SSR)**: Fast loading times and improved SEO through SSR, ensuring that users get instant access to content.
+- **Responsive Design**: Optimized for all devices, ensuring a seamless learning experience whether on a desktop, tablet, or mobile.
+- **User Authentication**: Secure user registration and login to personalize the learning experience.
+- **Progress Tracking**: Users can track their learning progress and revisit completed modules.
+- **Rich Media Integration**: Incorporate videos, images, and interactive elements to enhance understanding and retention.
+- **Community Interaction**: Features like forums or comment sections for peer interaction and knowledge sharing (to be implemented).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Used
 
-## Build
+- **Frontend**: Angular, HTML, CSS, TypeScript
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Getting Started
 
-## Running unit tests
+To get started with **LearningHub**, follow these steps:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/notime2daly/LearningHub.git
